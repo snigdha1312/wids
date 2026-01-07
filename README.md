@@ -1,4 +1,36 @@
+Exam Score Prediction – Exploratory Data Analysis(assignment 1)
+Overview
 
+This repository contains a Jupyter Notebook (assign1.ipynb) that performs Exploratory Data Analysis (EDA) on an exam score prediction dataset.
+The objective of this assignment is to understand the structure, quality, and statistical properties of the dataset before applying any machine learning models.
+
+Files in This Repository
+
+assign1.ipynb – Jupyter Notebook containing the complete analysis
+
+Exam_Score_Prediction.csv – Dataset used for analysis
+
+README.md – Project documentation
+
+Objective of the Assignment
+
+Load and inspect the dataset
+
+Understand the dataset structure and data types
+
+Perform basic data exploration
+
+Identify missing values and duplicate records
+
+Generate descriptive statistics for numerical features
+
+Tools and Libraries Used
+
+Python
+
+Pandas – for data loading, manipulation, and analysis
+
+Jupyter Notebook – for interactive analysis
 
 
 
